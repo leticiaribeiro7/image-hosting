@@ -6,7 +6,7 @@
 
 $~$
 ## Execução
-----------
+
 ### Dentro do repositório execute:
 ```php
 php -S localhost:PORT
